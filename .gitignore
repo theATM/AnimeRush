@@ -1,0 +1,8 @@
+.idea/*
+anienv/*
+checkpoint/*
+generated/*
+images/*
+img/*
+__pycache__/*
+project_GAN_clean.ipynb
