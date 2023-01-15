@@ -2,7 +2,9 @@
 anienv/*
 checkpoint/*
 generated/*
+compilations/*
 images/*
-img/*
-__pycache__/*
+images2/*
+arch_plan/*
+*__pycache__/
 project_GAN_clean.ipynb
