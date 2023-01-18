@@ -4,17 +4,6 @@ import torchvision.transforms as T
 import random
 
 
-class RandomRotationTransform:
-    """Rotate by one of the given angles."""
-
-    def __init__(self, angles):
-        self.angles = angles
-
-    def __call__(self, x):
-        angle = random.choice(self.angles)
-        return T.functional.rotate(x, angle)
-
-
 class EnhanceBrightness(object):
     """This is custom transform class
         It creates bright circle in the center of image
