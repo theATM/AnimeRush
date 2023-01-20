@@ -8,4 +8,6 @@ images2/*
 arch_plan/*
 dataset/*
 *__pycache__/
-project_GAN_clean.ipynb
+xfunction/unused/
+.ipynb_checkpoints/*
+

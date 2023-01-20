@@ -1,3 +1,12 @@
+Deep Learning Project
+* project_GAN.ipynb - main notebook with unimproved GAN training
+* hyper_GAN.ipynb - proposed improvements to the GAN training
+* critic_climping_WGAN - experiment conducted on the WGAN architecture (code taken from https://github.com/Zeleni9/pytorch-wgan)
+* xfunction - directory for the utility functions
+  * transforms.py - file with proposed transform
+  * models.py - different DCGAN architectures tested during experiments
+
+
 Data Usage:
 Create Dataset directory and inside
  * images - data given by the OULU Uni
@@ -7,4 +16,4 @@ Create Dataset directory and inside
  * rem2 - fake images from rem-anime-faces dataset
  * testB - selfie2anime testing anime set 
  * trainB - selfie2anime training anime set https://www.kaggle.com/datasets/arnaud58/selfie2anime CC0: Public Domain
- * out2 - resized to 64x64 Anime GAN Lite dataset https://www.kaggle.com/datasets/prasoonkottarathil/gananime-lite CC BY-SA 4.0
+ 
