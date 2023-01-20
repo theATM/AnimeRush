@@ -16,4 +16,9 @@ Create Dataset directory and inside
  * rem2 - fake images from rem-anime-faces dataset
  * testB - selfie2anime testing anime set 
  * trainB - selfie2anime training anime set https://www.kaggle.com/datasets/arnaud58/selfie2anime CC0: Public Domain
- 
+
+Project can be found on GitHub:
+https://github.com/theATM/AnimeRush
+
+Author:
+Aleksander Madajczak
