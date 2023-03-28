@@ -29,6 +29,8 @@ Create Dataset directory and inside
  * testB - selfie2anime testing anime set 
  * trainB - selfie2anime training anime set https://www.kaggle.com/datasets/arnaud58/selfie2anime CC0: Public Domain
 
+More information about the project can be found in the project report
+
 ### Project can be found on GitHub:
 https://github.com/theATM/AnimeRush
 
